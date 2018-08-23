@@ -1,14 +1,14 @@
 ﻿using UnityEngine;
-using System.Collections;
+using UnityEngine.SceneManagement;
 
 namespace UnityChan
 {
-	[ExecuteInEditMode]
-	public class SplashScreen : MonoBehaviour
-	{
-		void NextLevel ()
-		{
-			Application.LoadLevel (Application.loadedLevel + 1);
-		}
-	}
+    [ExecuteInEditMode]
+    public class SplashScreen : MonoBehaviour
+    {
+        void NextLevel()
+        {
+            SceneManager.LoadScene(1);
+        }
+    }
 }
