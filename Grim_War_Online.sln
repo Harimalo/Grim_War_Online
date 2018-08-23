@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grim_War_Online", "Assembly-CSharp.csproj", "{B2A6D83D-38B5-CAF2-5958-F27A409E89E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{B2A6D83D-38B5-CAF2-5958-F27A409E89E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grim_War_Online", "Assembly-CSharp-Editor.csproj", "{6DC20532-A973-020C-D783-3B6014211C88}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{6DC20532-A973-020C-D783-3B6014211C88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
